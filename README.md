@@ -197,7 +197,7 @@ def my_function(*multiargs): # * allows for any number of arguments
     return multiargs # returns tuple
 ```
 
-(See [fizz_buzz program](https://github.com/EstherSlabbert/Python-fundamentals/fizz_buzz_v2.py) or [movie_rating program](https://github.com/EstherSlabbert/Python-fundamentals/movie_ratingz_v2.py))
+(See [fizz_buzz program](https://github.com/EstherSlabbert/Python-fundamentals/blob/main/fizz_buzz_v2.py) or [movie_rating program](https://github.com/EstherSlabbert/Python-fundamentals/blob/main/movie_ratingz_v2.py))
 
 ## Libraries and modules
 
